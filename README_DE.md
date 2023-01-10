@@ -13,7 +13,7 @@
 5. Füge eine weitere quadratische Box mit der Klasse `.box2` hinzu. Die Box sollte die Hintergrundfarbe "rgb(0, 255, 85)" und eine Höhe und Breite von 200 Pixel haben. Diese Box sollte unten links auf dem Bildschirm positioniert werden, aber 10px höher und 10px weiter rechts stehen als `.box1`.
 
 6. Füge eine dritte Box mit der Klasse `.box3` hinzu. Sie sollte die Hintergrundfarbe "rgb(0, 183, 255)" haben. Sie sollte unten links im Fenster positioniert werden, aber 10px höher und 10px weiter rechts stehen als `.box2`.
-![referenz-bild](/images/referenz-image1.png)
+![referenz-bild](./images/reference-image1.png)
 
 7. Platziere `.box3` **hinter** `.box2`.
-![reference-image](/images/reference-image2.png)
+![reference-image](./images/reference-image2.png)
